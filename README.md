@@ -20,3 +20,5 @@ Swift - It's an NSDictionary Extension in swift to replace all NSNull values wit
     time                 = "1:48 pm";
     statusID             = 2;
     url                  = ""; // null has been replaced by blank string
+
+# Thanks:- http://stackoverflow.com/users/1652710/stakenborg
